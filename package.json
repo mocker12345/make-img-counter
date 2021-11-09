@@ -10,7 +10,7 @@
     "del": "^2.2.2",
     "glob": "^7.1.1",
     "gulp": "^3.9.1",
-    "gulp-less": "^3.3.0",
+    "gulp-less": "^5.0.0",
     "gulp-umd": "^0.2.0",
     "less-plugin-autoprefix": "^1.5.1",
     "minimist": "^1.2.0",
